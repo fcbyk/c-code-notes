@@ -1,0 +1,18 @@
+{
+  "name": "@fcbyk/ds4js",
+  "version": "0.0.1-alpha.1",
+  "description": "Data Structures for JavaScript",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "compile": "tsc"
+  },
+  "author": "Beyoki",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "9.x",
+    "jsdom": "^24.1.0",
+    "typescript": "^5.5.3",
+    "vitest": "^1.6.0"
+  }
+}
